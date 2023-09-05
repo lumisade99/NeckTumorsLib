@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: RadImaLib
+Version: 0.0.1
+Summary: Python library for radiological image processing and analysing
+Home-page: UNKNOWN
+Author: Ekaterina Zhabrovets
+License: UNKNOWN
+Platform: UNKNOWN
+
+# RadImaLib
+Python library for radiology images processing and analysing via ML-algorithms 
+
+
