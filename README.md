@@ -4,7 +4,7 @@
 Python library for radiology images processing and analysing
 ## Table of Contents
 
-* [Background Information](#Background Information)
+* [Background Information](#background Information)
 * [Installation](#installation)
 * [Examples](#examples)
 * [Publications](#Publications)
