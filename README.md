@@ -40,8 +40,6 @@ pip install RadImaLib
   read_dcms_from_path(path: str) - reads dicoms from a given directory
   ~~~
 
-## Examples
-
 ## Publications
 1. Ekaterina Zhabrovets, Tatyana Maximova. Designing AI Componenets for Diagnostics of Carotid Body Tumors (has been
 approved to be published in upcoming volume of the journal 'Lecture Notes in Networks and Systems')
