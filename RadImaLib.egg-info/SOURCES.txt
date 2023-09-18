@@ -1,8 +1,0 @@
-README.md
-setup.py
-RadImaLib/__init__.py
-RadImaLib/utils.py
-RadImaLib.egg-info/PKG-INFO
-RadImaLib.egg-info/SOURCES.txt
-RadImaLib.egg-info/dependency_links.txt
-RadImaLib.egg-info/top_level.txt

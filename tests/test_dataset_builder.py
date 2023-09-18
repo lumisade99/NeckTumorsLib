@@ -1,4 +1,15 @@
+from os import listdir
+
+from RadImaLib.utils import add_dicom_extension
 
 
-def test_add():
-    assert 3 == 3
+def test_add_dicom_extension():
+    directory = 'test_files'
+    add_dicom_extension(directory)
+    files = [f for f in listdir(directory)]
+    error_counter = 0
+    for file in files:
+        if file[-1] != 'm':
+            error_counter += 1
+    assert error_counter == 0
+
